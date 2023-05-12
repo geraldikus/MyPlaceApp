@@ -1,0 +1,191 @@
+{
+  "images" : [
+    {
+      "filename" : "iPad notification iOS 7,11@2x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "iPhone notification iOS 7,11@3x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "iPhone Spotlight iOS 5,6 & Settings@2x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "iPhone Spotlight iOS 5,6 & Settings@3x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "iPad App Icon iOS 7,9.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "38x38"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 5,6@2x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "38x38"
+    },
+    {
+      "filename" : "iPad Spotlight iOS 7,9@2x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 7,9@2x 2.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 7,9@2x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 7,9@3x 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "App Store.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "64x64"
+    },
+    {
+      "filename" : "App Store (2).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "64x64"
+    },
+    {
+      "filename" : "App Store (3).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "68x68"
+    },
+    {
+      "filename" : "iPad App Icon iOS 7,9@2x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "iPad Pro Icon iOS 9@2x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "83.5x83.5"
+    },
+    {
+      "filename" : "LaunchScreenImg@2x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "iPad notification iOS 7,11@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "iPhone notification iOS 7,11@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "iPad Settings.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "iPad Settings@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "iPhone Spotlight iOS 5,6 & Settings@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "iPad Spotlight iOS 7,9@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "iPhone Spotlight iOS 7,9@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 5,6.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "57x57"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 5,6@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "57x57"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 7,9@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "iPhone App Icon iOS 7,9@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "LaunchScreenImg@2x 1.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
