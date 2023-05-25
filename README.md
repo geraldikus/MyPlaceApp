@@ -1,4 +1,5 @@
 # MyPlaceApp
+YouTube - https://youtu.be/GeMtSP5vQ3U
 
 #russian
 Это приложение решает проблему упорядочивания и сохранения любимых мест в городе.
@@ -12,7 +13,7 @@
 
 Проект отличается от других приложений для сохранения мест тем, что он предоставляет простой и интуитивно понятный интерфейс,
 удобную сортировку мест, а также функцию построения маршрута от текущего местоположения пользователя до выбранного места.
-
+Посмотреть работу приложения можно на YouTube по ссылке выше.
 
 #english
 This application solves the problem of organizing and saving favorite places in the city.
@@ -26,3 +27,4 @@ I also delved into the process of user interface development, working with maps,
 
 The project stands out from other location-saving applications in that it offers a simple and intuitive interface,
 convenient sorting of places, and the ability to build routes from the user's current location to the selected place.
+You can watch the application in action on YouTube using the link above.
